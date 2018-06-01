@@ -19,4 +19,6 @@ REFERENCES
 1.受限玻尔兹曼机基础教程,https://deeplearning4j.org/cn/restrictedboltzmannmachine
 2.Bipartite_graph,https://en.wikipedia.org/wiki/Bipartite_graph
 3.MNIST with Autoencoder,https://allenlu2007.wordpress.com/2017/07/08/mnist-with-autoencoder/
+
+ysd:針對rbm進行實做
 ```
